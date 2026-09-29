@@ -1,0 +1,16 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Xed-Editor/Xed-Schemas/main/theme-manifest.json",
+  "id": "com.niannian1145.vscodedefault",
+  "name": "VS‑Code‑Default",
+  "version": "1.0.0",
+  "description": "Recreate VS Code built‑in Dark+ and Light+ theme for Xed‑Editor",
+  "type": "theme",
+  "author": {
+    "displayName": "niannian1145"
+  },
+  "repository": "https://github.com/niannian1145/xed-vscode-default-theme",
+  "license": "MIT",
+  "tags": ["vscode","dark‑plus","light‑plus","default"],
+  "minAppVersion": 87,
+  "inheritBase": true
+}
